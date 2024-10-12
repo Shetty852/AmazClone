@@ -2,18 +2,8 @@
 
 This project is a **static front-end Amazon-inspired clone**, built using HTML and CSS. It replicates some key elements of Amazon's design, including the navigation bar, product showcase sections, and footer links.
 
-## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Demo
-> You can see a live demo here: **[Amazon Clone Demo](https://amaz-clone.onrender.com)** (Replace with your live link)
+> You can see a live demo here: **[Amazon Clone Demo](https://amaz-clone.onrender.com)** 
 
 ## Features
 - **Navigation Bar:** Includes search functionality, shopping cart icon, and account options.
